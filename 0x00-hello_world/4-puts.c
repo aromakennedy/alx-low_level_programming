@@ -4,11 +4,12 @@
 
 /**
  *
- *  * main - Entry point
+ * main - Entry point
+ * description : using the main function
+ * this program prints 'progamming is like bilding a multilingual puzzle
+ *   
  *
- *   *
- *
- *    * Return: Always 0 (Success)
+ * Return: Always 0 (Success)
  *
  *
  */
