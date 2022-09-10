@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-*
 * main - Entry point
 * Description: use of 'mains function'
 * Return: Always 0 (success)
