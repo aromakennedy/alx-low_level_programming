@@ -1,1 +1,1 @@
- a script that runs a C file through the preprocessor and save the result into another file file var $CFILE saved in c
+a script that compiles a C file but does not link C file name will be saved in the variable $CFILE  extension .o instead of .c  main.c, the output file should be main.o
