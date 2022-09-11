@@ -1,1 +1,1 @@
-a program that prints the alphabet in lowercase, followed by a new linePrint all the letters except q and e only use the putchar function
+a program that prints all single digit numbers of base 10 starting from 0, followed by a new line All your code should be in the main function
