@@ -1,50 +1,19 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * Return: alway returns 0
-*/
-
+ * main - Entry point
+ * Return: Always 0 (success/correct)
+ */
 int main(void)
-
 {
+char alphabet;
 
-	int i;
+for (alphabet = "a"; alphabet <= "z"; alphabet++)
+{
+putchar(alphabet);
+}
 
-	int j;
+putchar("\n");
 
-
-
-	for (i = 10; i <= 19; i++)
-
-	{
-
-		for (j = 10; j <= 19; j++)
-
-		{
-
-			putchar((i % 10) + '0');
-
-			putchar((j % 10) + '0');
-
-			if (i != 19 ||  j != 19)
-
-			{
-
-				putchar(',');
-
-				putchar(' ');
-
-			}
-
-
-
-		}
-
-	}
-
-	putchar('\n');
-
-	return (0);
-
+return (0);
 }
