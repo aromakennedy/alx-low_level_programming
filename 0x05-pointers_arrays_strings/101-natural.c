@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - main function
@@ -26,7 +27,6 @@ int main(void)
 			b += a;
 
 		}
-
 
 
 	}
