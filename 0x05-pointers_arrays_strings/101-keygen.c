@@ -7,6 +7,7 @@
  *
  * Return: always 0
  */
+
 int main(void)
 {
 
@@ -20,7 +21,6 @@ int main(void)
 	{
 
 		i = k = s = 0;
-
 		while ((2772 - 122) > s)
 		{
 
@@ -29,7 +29,7 @@ int main(void)
 		s += c[j];
 		i++;
 
-	{
+		}
 
 	while (c[k])
 	{
@@ -39,8 +39,9 @@ int main(void)
 			s += c[k];
 			i++;
 			break;
+	
 		}
-
+		
 		k++;
 	}
 	}
